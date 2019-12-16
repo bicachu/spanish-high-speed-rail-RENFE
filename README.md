@@ -1,5 +1,5 @@
 # spanish-high-speed-rail-RENFE (Price Prediction)
-__Objective:__ Build machine learning models that predice the price of a RENFE train ticket
+__Objective:__ Build machine learning models that predict the price of a RENFE train ticket
 
 The renfe dataset (input data) can be downloaded from Kaggle here: https://www.kaggle.com/thegurusteam/spanish-high-speed-rail-system-ticket-pricing. It consists of large dataset of 7+ million ticket prices that were scraped from the official Renfe website between April 2019 - August 2019 
 
